@@ -1,0 +1,6 @@
+Mause,10.50
+Keyboard,45.99
+Pc,799.00
+Printer,100.00
+Monitor,170.00
+Tablet,355.99

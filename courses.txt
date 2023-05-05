@@ -1,0 +1,6 @@
+Java Developer,1200
+Python Developer,1100
+QA,900
+Syber Security,800
+JavaScript,400
+Sales Force,500
